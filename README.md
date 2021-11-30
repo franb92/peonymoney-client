@@ -1,4 +1,4 @@
-# Crowdfunding Django Project React
+# Crowdfunding Project React
 
 <b>Crowdfunding Project: Part B (React) - Successful Deployment to Heroku:</b><br></br> 
 <b>Heroku deployed project:</b> https://blooming-garden-96957.herokuapp.com<br></br>
